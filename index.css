@@ -1,0 +1,15 @@
+.nav{
+    background-color: #b67676d3;
+}
+
+.linka{
+    font-size: 40px;
+}
+
+.test_demo{
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 200px;
+    background-color:#ccc;
+}
